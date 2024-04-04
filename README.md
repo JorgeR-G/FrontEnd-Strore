@@ -3,7 +3,7 @@
 Bienvenido/a a mi proyecto FrontEnd Store, es una tienda de camisetas FrontEnd con una navegación sobre nosotros y la tienda con su imagen y precio. También si se selecciona una de ellas te lleva al producto con una breve descripción, la selección de talla, el número de camisetas que deseas y un botón para agregar al carrito.
 
 Este es un proyecto que contiene todo lo necesario para ver en Netlify. 
-https://frontend-jorge-rodriguez.netlify.app/
+---   https://frontend-jorge-rodriguez.netlify.app/   ---
 
 ## Características 🚀
 
